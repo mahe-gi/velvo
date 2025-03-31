@@ -19,7 +19,7 @@ const ThemeImage = (props: Props) => {
 
 export default function Home() {
   return (
-    <div  className=" bg-red-300 h-screen">
+    <div  className="flex flex-col items-center justify-center min-h-screen p-24">
       hello
     </div>
   );
