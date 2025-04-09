@@ -1,4 +1,5 @@
 import db from "@repo/db/client"
+//find the path to the client
 import CredentialsProvider from "next-auth/providers/credentials"
 import bcrypt from "bcryptjs";
 
